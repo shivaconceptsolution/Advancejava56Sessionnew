@@ -1,0 +1,31 @@
+*
+{
+    margin:0px;
+}
+header
+{
+    background-color: orangered;
+    height:100px;
+}
+
+.part
+{
+    
+    float:left;
+    width:300px;
+    height:200px;
+    background-color: black;
+    color:white;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+section
+{
+    height:500px;
+    background-color:gray; 
+}
+footer
+{
+    height:100px;
+   background-color: orangered; 
+}
